@@ -188,13 +188,7 @@ DROP CONSTRAINT SalaryCheck;
 
 2. 직원 테이블에 대해 '이름' 속성으로 '직원_name'이라는 인덱스를 정의하는 SQL문을 작성하시오.
 
-
-
-
-
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-
 
 ## 정답
 1. CASCADE

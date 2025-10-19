@@ -20,9 +20,9 @@
 - 보안 취약점을 최소화하기 위해 안전한 코딩 기법을 적용하는 것
 - 입력 검증, 출력 인코딩, 에러 처리, 세션 관리, 암호화, 권한 관리 등의 기법 포함
 - 각 언어별 Secure Coding 가이드북
-  - Javascript: ![](https://www.kisa.or.kr/skin/doc.html?fn=20240403_091307_718.pdf&rs=/result/2024-04/)
-  - Python: ![](https://www.kisa.or.kr/skin/doc.html?fn=20240123_171651_543.pdf&rs=/result/2024-01/)
-  - 소프트웨어 개발보안 가이드: ![](https://www.kisa.or.kr/skin/doc.html?fn=20220104_2030303_5.pdf&rs=/result/2022-01/)
+  - Javascript: https://www.kisa.or.kr/skin/doc.html?fn=20240403_091307_718.pdf&rs=/result/2024-04/
+  - Python: https://www.kisa.or.kr/skin/doc.html?fn=20240123_171651_543.pdf&rs=/result/2024-01/
+  - 소프트웨어 개발보안 가이드: https://www.kisa.or.kr/skin/doc.html?fn=20220104_2030303_5.pdf&rs=/result/2022-01/
 
 ## 심화학습: Shift-Left
 
@@ -58,7 +58,7 @@
 3. 보안 항목에 해당하는 요구사항을 식별하는 작업을 수행하는 것을 의미합니다.
 
 ## 참고자료/출처
-- ![](https://kairoka-sqa.tistory.com/28)
+- https://kairoka-sqa.tistory.com/28
 - 김승주 교수님의 보안 공학 수업
   - ©2025 by Seungjoo Gabriel Kim. Permission to 
 make digital or hard copies of part or all of this 
